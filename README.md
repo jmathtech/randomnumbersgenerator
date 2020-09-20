@@ -11,4 +11,5 @@ Here is a random numbers generator just in case you may want to try your luck on
 <li> Used 'lottery.pop' for the shuffle functionality of the generator. Basically, it says solve for "x".
 <li> Learned to generator numbers using the Numbers [] for numbers sort and organizing the numbers when printed.
 
-
+# Example
+![randomnumbers](https://user-images.githubusercontent.com/36749450/93713693-7dbe2400-fb2b-11ea-8af7-a7d53d74f3f4.PNG)
